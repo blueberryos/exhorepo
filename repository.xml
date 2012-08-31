@@ -1,0 +1,18 @@
+<repository>
+    <drivers>
+        <driver>
+            <name>gertboard</name>
+            <url></url>
+        </driver>
+        <driver>
+            <name>primesense</name>
+            <url></url>
+        </driver>
+    </drivers>
+    <libraries>
+        <library>
+            <name>OpenNI</name>
+            <url></url>
+        </library>
+    </libraries>
+</repository>
